@@ -1,0 +1,17 @@
+<html>
+<head><title>ACERCA DE</title>
+</haed>
+<body bgcolor="WHITE">
+<font face="ARIAL BLACK" SIZE="14">
+ACERCA DE
+<table border="0" width="90%">
+<tr><td><img src="ubicacion1.jpg" width="500" heigh="500"></td>
+
+</tr>
+<tr><td>Ubicacion de la TIENDA<br>CONTACTANOS:<br>Numero de telefono:  3532063506<br>Correo:  miguelangeltorogarcia744@gmail.com</td>
+</tr>
+
+</table>
+</font>
+</body>
+</html>
