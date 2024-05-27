@@ -1,0 +1,15 @@
+.Bloque1{
+border: solid 1px ;
+background-color: blue;
+width: 300px;
+}
+.bloque2{
+border: solid 1px black;
+background-color: orange;
+width: 300px;
+}
+.bloque3{
+border: solid 1px pink;
+background-color: green;
+width: 300px;
+}
